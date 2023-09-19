@@ -6,4 +6,3 @@ Finding markets with highest attendance growth in 2023
 
 <img src="https://github.com/aarmobley/MLB-2023/blob/main/Screenshot%20(271).png" width="800" height=500/>
 
-https://github.com/aarmobley/MLB-2023/blob/main/Screenshot%20(270).png
